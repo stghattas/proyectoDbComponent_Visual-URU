@@ -51,6 +51,7 @@ proyectoDbComponent/
 │   └── TransactionContext.java
 ├── queries.properties        # Diccionario de sentencias SQL externalizadas
 └── README.md                 # Documentación del proyecto
+```
 
 ### Hecho por: <br>
 
