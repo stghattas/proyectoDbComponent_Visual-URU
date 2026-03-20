@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        // Aquí es donde se soluciona el error de contraseña
         DbComponent<PostgresAdapter> db = new DbComponent<>(
             new PostgresAdapter(),
             "localhost", 
